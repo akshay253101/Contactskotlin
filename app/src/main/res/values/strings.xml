@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="note">Note</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
